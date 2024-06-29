@@ -1,2 +1,2 @@
-# DISESEASE-DIAGNOSIS-USING-CHATBOT
+# DISEASE DIAGNOSIS USING CHATBOT
 During pandemic situations like Covid, it is not advisable for patients to visit the doctors in a physical environment. In this project, we present a chatbot application that can advise the patients about their physical health based upon symptom inputs. Users can ask about anything regarding the health problems they are facing and find a solution to the problem. The system enables users to describe symptoms and quickly recall a course of treatment by relying on natural language based interaction. To predict the disease and generate the response, Random forest algorithm has been used.
